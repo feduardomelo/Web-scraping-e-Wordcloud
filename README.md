@@ -1,4 +1,6 @@
-# Web Scraping e Wordcloud
+<h1 align="center">
+Web Scraping e Wordcloud
+</h1>
 <p align="center">
   <img src ="./img/resultado.png" width=400px>
 </p>
